@@ -9,7 +9,7 @@ from random import random
 from calculating import *
 
 
-SIZE = 5
+SIZE = 11
 WSIZE = 500
 
 
